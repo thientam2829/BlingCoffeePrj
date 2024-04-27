@@ -1,0 +1,59 @@
+.main_content .main_content_iner {padding:20px 15px; 	}
+.header_iner {padding: 20px 10px;}
+.white_card .white_card_body {padding: 5px 20px 25px 20px;}
+.white_card .white_card_header {padding: 22px 20px;}
+
+
+.table tbody tr {border-top: 1px solid #d9d9d9;}
+.table .action_btn {font-size: 20px;}
+.btn-pm .btn,.serach_field-area {display: inline-block!important;}
+.btn-1 {display: inline-block;}
+.btn-pm .btn i {padding-right: 5px;}
+.btn-pm .serach_field-area {margin-left: 20px;}
+.btn-pm .serach_field-area .search_inner input {height: 38px;}
+.form-check-input {margin-left: 0.75rem; width: 20px; height: 20px; margin-top: unset;}
+.form-group .stt {display: inline-block; width: 15%!important;}
+.add-form textarea.form-control {height: 150px;}
+.hienthi {padding-top: 45px;}
+.hienthi .check-mt {padding-left: 0px;}
+.hienthi .form-check {padding-left: 0px;	}
+.w-50 {width: 70%!important;}
+.crm_head  span {font-weight: bold;}
+.search-dh {text-align: center;}
+.dh-search .white_card_body {padding : 5px 20px 0px 20px;}
+
+.sidebar {overflow-y: unset;overflow: unset;}
+.form-check {padding-left: 0px;}
+.table td, .table th {vertical-align: middle;}
+#displayIMG img {width: 280px; border-radius: 5px;}
+#displayIMG {margin-top: 10px;}
+.tr-mota {width: 30%;}
+.tr-stt {width: 10%;}
+.stt {width : 50px;}
+.line-3 {overflow: hidden;-webkit-line-clamp: 3;display: -webkit-box;-webkit-box-orient: vertical;}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.row2{ padding-top: 20px; }
+/* line 22, G:/admin_project/8 admin/management_html/scss/_product.scss */
+.total-payment-2 {
+  border: 1px solid #4400ff;
+  background-color: #f2eefd;
+  border-radius: 3px;
+}
+
+/* line 27, G:/admin_project/8 admin/management_html/scss/_product.scss */
+.total-payment-2 .table tbody td, .total-payment-2 table tbody td, .shopping-cart .table tbody td, .shopping-cart table tbody td {
+  padding: 5px 0px;
+  border-top: 0 !important;
+  border-bottom: 1px solid #ffffff00;
+}
+.active span {
+  color: #f65365;
+}
+
+.lbMsgCmt{
+color: red;
+}

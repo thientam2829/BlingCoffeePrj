@@ -1,0 +1,381 @@
+.category {
+    top: 100px;
+    margin-top: 85px;
+    position: -webkit-sticky;
+    position: sticky;
+    left: 0;
+}
+.menu-t {
+    padding-bottom: 1rem !important;
+    margin-bottom: 3rem !important;
+}
+
+.icon button {
+    border: none;
+    background: none;
+}
+.border-search {
+    width: 100%;
+    border: 3px solid #c49b63;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.btn-search {
+    width: 100%;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.subheading-search {
+    font-size: 30px;
+    margin-bottom: 0;
+    font-family: "Georgia";
+    color: #c49b63;
+    margin-top: 20px;
+    text-align: center;
+}
+.p-subheading-search {
+    margin: 0;
+    text-align: justify;
+}
+@media (min-width: 768px) {
+    .ftco-about .one-half .overlap2 {
+        /* margin-left: 10px; */
+        margin-right: -145px;
+        padding: 40px;
+        background: rgba(0, 0, 0, 0.5);
+        text-align: end;
+    }
+}
+.menu-t-2 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 30%;
+    max-width: 30%;
+    background: #e7e7e7;
+    margin: 14px;
+    padding: 10px 10px 0px 10px;
+}
+.menu-entry-2 .text .price span {
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+}
+.menu-entry-2 .text h3 a {
+    color: #000;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.menu-entry-2 a.btn.btn-primary.btn-outline-primary {
+    border: 3px solid #c49b63;
+}
+.menu-entry.menu-entry-2 {
+    margin-bottom: 0px !important;
+}
+h3.a-name {
+    height: 40px;
+}
+.billing-heading-center {
+    text-align: center;
+}
+
+.menu-entry-slider .img {
+    display: block;
+    height: 300px;
+}
+
+.menu-entry-slider .text h3 a {
+    color: #fff;
+    font-size: 17px;
+}
+
+.ftco-section-bottom {
+    padding-top: 0px;
+}
+
+.justify {
+    text-align: justify;
+}
+.input225w {
+    width: 244px;
+    text-align: center;
+}
+
+samp.tag_ban_chay_nhat {
+    color: #ffffff;
+    background: #ff0000;
+    font-size: 12px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 122px;
+    padding: 1px 8px;
+}
+
+samp.tag_moi {
+    color: #ff0000;
+    background: #ffeb3b;
+    font-size: 12px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 196px;
+    padding: 1px 8px;
+}
+
+samp.tag_khuyen_mai {
+    color: #000000;
+    background: #c49b63;
+    font-size: 12px;
+    font-weight: bold;
+    position: absolute;
+    padding: 1px 8px;
+}
+.large_logo img {
+    width: 200px;
+    margin-top: -15px;
+}
+.icon2 {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+.notproduct p {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.icon-close-all {
+    padding: 8px 11px;
+    color: white;
+    border: 1px solid white;
+}
+
+.icon-close-all:hover {
+    padding: 8px 11px;
+    color: #343a40;
+    border: 1px solid white;
+    background: white;
+}
+
+.product-name-left {
+    text-align: left !important;
+}
+
+.price .discount {
+    text-decoration: line-through;
+}
+
+.price p {
+    margin-bottom: 0px;
+}
+
+.row.row-left {
+    margin-left: 2px;
+    text-transform: uppercase;
+}
+
+.input240w {
+    width: 240px;
+}
+.product-details-2 h3 {
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.product-details-2 .price span {
+    font-size: 27px;
+    font-weight: 500;
+}
+.ftco-section-bottom-2 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.listreply {
+    margin-left: 40px;
+    color: #fff;
+}
+.comment {
+    margin-bottom: 50px;
+}
+
+.form-comment textarea {
+    background: none;
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    width: 100%;
+    color: #ffffff;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: 300;
+}
+.form-comment {
+    border: 1px solid #ffffff;
+}
+.motionsend {
+    padding: 10px;
+}
+.midcmt {
+    margin-top: 15px;
+}
+.midcmt samp {
+    font-weight: bold;
+}
+.cmtKey {
+    width: 300px;
+    outline: none;
+    background: #fff !important;
+    padding: 3px 5px !important;
+    height: auto !important;
+    font-size: 17px;
+    color: black !important;
+}
+.iconcom-search {
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+.search-form {
+    position: relative;
+}
+span.lbMsgCmt {
+    color: red;
+}
+.question {
+    margin-top: 6px;
+}
+.rowuserreply {
+    margin-top: 10px;
+}
+.lbMsgCmtReply {
+    color: red;
+}
+.MsgCmt {
+    color: red;
+    font-weight: 400;
+}
+.border-product-reviews {
+    width: 100%;
+    border: 3px solid #c49b63;
+    padding: 20px;
+    border-radius: 5px;
+}
+.review-star {
+    color: #f8b500;
+    font-size: 15px;
+}
+.top-reviews {
+    display: flex;
+    align-items: center;
+    margin: 15px 0px;
+    color: #f8b500;
+    font-size: 25px;
+}
+.list-star {
+    margin: 0px 15px;
+    font-size: 20px;
+}
+.rating-total {
+    color: white;
+}
+.point {
+    font-weight: bold;
+}
+.review-name {
+    font-weight: 600;
+}
+samp.review-time {
+    color: white;
+    margin-left: 10px;
+}
+.review-button {
+    display: flex;
+    justify-content: space-between;
+}
+.review-submit {
+    width: 300px;
+}
+.list-star-comment {
+    display: flex;
+    justify-content: center;
+}
+.star1 {
+    width: 100px;
+    text-align: center;
+}
+.star1 i {
+    font-size: 35px;
+    padding-top: 15px;
+}
+.list-star-comment {
+    display: flex;
+    justify-content: center;
+}
+.active {
+    color: #f8b500 !important;
+}
+/* .rating-right {
+    padding: 0;
+    width: 50%;
+} */
+.rating-list {
+    display: flex;
+    align-items: center;
+    height: 25px;
+}
+.number-star {
+    font-size: 15px;
+    width: 40px;
+}
+.timeline-star {
+    background-color: #eee;
+    height: 6px;
+    position: relative;
+    width: calc(100% - 72px);
+}
+.number-percent {
+    font-size: 18px;
+    width: 45px;
+    text-align: right;
+}
+.timing {
+    background-color: #f8b500;
+    height: 6px;
+    position: absolute;
+}
+.btn-review {
+    margin: 17px 0px;
+}
+.cmtKeyReview {
+    width: 340px;
+    outline: none;
+    background: #fff !important;
+    padding: 3px 5px !important;
+    height: auto !important;
+    font-size: 17px;
+    color: black !important;
+}
+.btn-review .review-submit {
+    width: 100%;
+}
+.rating-filter {
+    border: 1px solid;
+    padding: 2px 3px;
+    font-size: 17px;
+    border-radius: 6px;
+    font-weight: 500;
+    text-align: center;
+    margin-left: 1px;
+    color: white;
+}
+p.price {
+    margin: 0;
+}
+.star {
+    color: #f8b500;
+    margin-bottom: 4px;
+    font-size: 20px;
+    font-weight: bold;
+}
